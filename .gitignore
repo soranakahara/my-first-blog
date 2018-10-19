@@ -1,6 +1,7 @@
-<your_venv>
+*.pyc
+*~
 __pycache__
-staticfiles
-local_settings.py
+myspace
 db.sqlite3
-*.py[co]
+/static
+.DS_Store
